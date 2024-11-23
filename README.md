@@ -1,6 +1,6 @@
 # Implementation-of-Linear-and-Polynomial-Regression-Models-for-Predicting-Car-Prices
-### Developed by: Aaron H
-### RegisterNumber: 212223040001
+### Developed by: ajina joshpin
+### RegisterNumber: 212223230008
 
 ## AIM:
 To write a program to predict car prices using Linear Regression and Polynomial Regression models.
